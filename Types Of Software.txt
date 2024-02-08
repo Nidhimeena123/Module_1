@@ -1,0 +1,9 @@
+Types Of Software
+
+Software can be categorized into various types based on its purpose, functionality, and use cases. Here are some common types of software:
+
+1.System Software
+
+2.Application Software
+
+3.Programming Software

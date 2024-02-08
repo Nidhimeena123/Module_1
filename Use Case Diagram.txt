@@ -1,0 +1,21 @@
+Use Case Diagram
+
+
+A Use Case Diagram is a visual representation that shows the interactions between users or external systems and a system, focusing on the ways in which the system responds to various requests from those actors.
+ let's create a simple Use Case Diagram:
+
++--------------------------------+
+|        Paytm Bill Payment      |
+|                                |
+|         +----------------+     |
+|         |  User          |     |
+|         |                |     |
+|         +----------------+     |
+|                |               |
+|         +----------------+     |
+|         |  Paytm System  |     |
+|         |                |     |
+|         +----------------+     |
+|                                |
++--------------------------------+
+

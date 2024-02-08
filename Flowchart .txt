@@ -1,0 +1,4 @@
+Flowchart 
+
+A flowchart is a visual representation of a process or algorithm using different shapes, symbols, and arrows to illustrate the steps involved and the flow of data. It is commonly used in programming, business processes, and other fields to depict the logical sequence of actions.
+

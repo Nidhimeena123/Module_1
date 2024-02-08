@@ -1,0 +1,10 @@
+Software engineering
+
+Software: a Program or set of Programs containing instructions which provide desired
+functionality.
+Engineering: Process of designing and building something that ensure particular purpose.
+Software Engineering:
+―Software engineering is the art of developing quality software on time and within
+budget.
+Software Engineering is a systematic approach to the design, development, operation,
+and maintenance of a software system.
